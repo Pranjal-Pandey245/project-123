@@ -1,0 +1,21 @@
+.head{
+    width:80%;
+    top: 0px;
+    margin-left: 150px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.copy_right_footer{
+    margin-top: 600px;
+    line-height: 30px;
+    box-shadow: 10px 10px 10px grey;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+canvas{
+    border: 10px 10px solid ;
+    box-shadow: 10px 10px 10px lightblue;
+}
